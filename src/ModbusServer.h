@@ -126,7 +126,7 @@ public:
 
   /**
    * Poll for requests
-   * 
+* 
    * @return 1 on request, 0 on no request.
    */
   virtual int poll() = 0;
